@@ -1,6 +1,6 @@
 # Table of contents
 
-* [README](README.md)
+* [《AI时代，EXCEL从0到100》](README.md)
 
 ## 第0阶段：函数基石——AI时代之前的Excel函数之道
 
