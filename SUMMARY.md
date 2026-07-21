@@ -6,7 +6,7 @@
 
 ***
 
-* [第0阶段：函数基石 — AI时代之前的Excel函数之道](di-0-jie-duan-han-shu-ji-shi-ai-shi-dai-zhi-qian-de-excel-han-shu-zhi-dao-1.md)
+* [— AI时代之前的Excel函数之道](ai-shi-dai-zhi-qian-de-excel-han-shu-zhi-dao.md)
 * [第0-1章：AI替不了你的，才是你最该学的](第0-1章：AI替不了你的，才是你最该学的.md)
 * [第0-2章：3秒钟看见"引用"的变化](第0-2章：3秒钟看见“引用”的变化.md)
 * [第0-3章：让600行数据自己"认亲"](第0-3章：让600行数据自己“认亲”.md)
