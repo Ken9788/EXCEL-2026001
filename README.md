@@ -4,7 +4,7 @@ description: ——AI时代跨境电商广告投手EXCEL特训营
 
 # 《AI时代，EXCEL从0到100》
 
-2026-7-7
+<kbd>2026-7-7</kbd>
 
 <kbd>**Yotta 管理咨询**</kbd>
 
