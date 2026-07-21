@@ -4,10 +4,6 @@
 
 ## 第0阶段：函数基石——AI时代之前的Excel函数之道
 
-## 第0阶段：函数基石 — AI时代之前的Excel函数之道
-
-* [Page 1](di-0-jie-duan-han-shu-ji-shi-ai-shi-dai-zhi-qian-de-excel-han-shu-zhi-dao-1/page-1.md)
-
 ***
 
 * [— AI时代之前的Excel函数之道](ai-shi-dai-zhi-qian-de-excel-han-shu-zhi-dao.md)
