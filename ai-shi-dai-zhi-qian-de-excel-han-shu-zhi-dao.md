@@ -1,5 +1,5 @@
 ---
-description: 第0阶段：函数基石
+description: 第0阶段：函数基石— AI时代之前的Excel函数之道
 ---
 
 # — AI时代之前的Excel函数之道
